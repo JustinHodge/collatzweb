@@ -1,0 +1,24 @@
+body {
+    background-color: whitesmoke;
+}
+
+div{
+    width: 500px;
+    height: 100px;
+    border-style: solid; 
+    border-width: 3px; 
+    background-color: beige;
+    border-color: black;
+}
+
+.label{
+    width: auto;
+    height: auto;
+}
+
+button{
+    background-color: aliceblue;
+    border-style: solid; 
+    border-width: 3px; 
+    border-color: black;
+}
